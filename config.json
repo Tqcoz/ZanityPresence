@@ -1,12 +1,12 @@
 {
-    "Client_Id": "385188316523266052",
+    "Client_Id": "467436427937054722",
 
     "Rich_Presence":{
-        "details": "Creating a RPC repo",
-        "state": "Coding",
-        "username": "Indy",
+        "details": "Playing play.zanitynetwork.cf",
+        "state": "Working on Factions Season 1",
+        "username": "Zanity",
         "file_username": "indyprofile",
-        "bannername": "Rich Presence",
+        "bannername": "Zanity",
         "file_bannername": "background",
         "maxpartysize": 100,
         "countdown_start": 3600,
